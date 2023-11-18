@@ -1,0 +1,52 @@
+*{margin:0 ; padding: 0;}
+
+header{
+    width: 100%;
+    overflow: hidden;
+    background-color: #252932;
+}
+
+header .logo{
+    color: #f2f2f2;
+    font-size: 50px;
+    line-height: 85px;
+    float: left;
+}
+
+header .barra{
+    float:right;
+    line-height: 85px;   
+}
+
+header nav a{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px ;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body{
+    background-color: #fffffa;
+}
+.categorias{
+    width: 100%;
+    background-color: gray;
+    margin-bottom: 20px;
+}
+
+.categorias a{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px ;
+}
+.wrapper{
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+
